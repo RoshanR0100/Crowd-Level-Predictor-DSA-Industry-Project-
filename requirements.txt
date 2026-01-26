@@ -1,0 +1,7 @@
+apache-airflow
+mlflow
+sqlalchemy
+psycopg2-binary
+xgboost
+scikit-learn
+pandas
