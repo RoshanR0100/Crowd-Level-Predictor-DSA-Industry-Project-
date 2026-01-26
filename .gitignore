@@ -1,0 +1,19 @@
+# --- Secrets & Config ---
+.env
+.env.local
+.vscode/
+.idea/
+
+# --- Python Junk ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Data & Logs ---
+*.csv
+*.log
+airflow/logs/
+airflow/db/
